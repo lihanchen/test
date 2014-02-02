@@ -1,3 +1,7 @@
 qweqwewqeqwe
+<<<<<<< HEAD
 asd
 zxc
+=======
+asd
+>>>>>>> parent of d5bed8e... Revert "Update 新建文本文档.txt"
