@@ -1,0 +1,10 @@
+qweqwewqeqwe
+<<<<<<< HEAD
+<<<<<<< HEAD
+asd
+zxc
+=======
+asd
+>>>>>>> parent of d5bed8e... Revert "Update 新建文本文档.txt"
+=======
+>>>>>>> parent of 99cca3d... 2line
