@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 qweqwewqeqwe
 asd
+=======
+>>>>>>> parent of 26157e8... Update 新建文本文档.txt
