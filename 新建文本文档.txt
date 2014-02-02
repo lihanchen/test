@@ -1,10 +1,16 @@
 qweqwewqeqwe
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 75cb386a12b7035d319ee064f6ff7c1616e87139
 asd
 zxc
 =======
 asd
 >>>>>>> parent of d5bed8e... Revert "Update 新建文本文档.txt"
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 99cca3d... 2line
+=======
+>>>>>>> 75cb386a12b7035d319ee064f6ff7c1616e87139
