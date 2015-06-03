@@ -1,7 +1,0 @@
-abc
-qwe
-def
-
-456
-123
-new
